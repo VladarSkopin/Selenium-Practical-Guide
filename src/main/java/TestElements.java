@@ -52,5 +52,7 @@ public class TestElements {
 
         searchBox2.sendKeys("Rick and Morty", Keys.ENTER);
 
+        String s = new String("Sasha");
+
     }
 }
